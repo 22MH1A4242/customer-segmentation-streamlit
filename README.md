@@ -6,6 +6,14 @@ This interactive web app segments customers based on **Annual Income**, **Spendi
 📁 **Dataset**: `Mall_Customers.csv` (included)
 
 ---
+## 📸 Screenshots
+
+### 🔹 App After Upload
+![App After Upload](screenshot.png)
+
+### 🔹 App Before Upload
+![App Before Upload](empty-state.png)
+
 
 ## 🚀 Features
 
