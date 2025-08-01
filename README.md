@@ -20,16 +20,6 @@ This interactive web app segments customers based on **Annual Income**, **Spendi
 
 ---
 
-## 📸 Screenshots
-
-### ✅ App after CSV Upload
-![App after Upload](screenshot.png)
-
-### 📂 App Before Upload
-![App before Upload](empty-state.png)
-
----
-
 ## 🛠️ Tech Stack
 
 - **Python**
